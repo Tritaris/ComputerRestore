@@ -1,0 +1,1 @@
+choco install adobe-creative-cloud -y
